@@ -23,6 +23,7 @@
                 <button type=button class="btn btn-primary ms-auto">detail</button>
             </div>
         </div>
+        <h1>Hello world</h1>
 </div>
 
     <!-- Optional JavaScript; choose one of the two! -->
